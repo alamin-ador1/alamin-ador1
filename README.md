@@ -38,9 +38,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alamin-ador1/alamin-ador1/output/snake.svg" alt="Snake animation" />
-
-###
